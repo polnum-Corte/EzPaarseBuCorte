@@ -1,0 +1,12 @@
+{
+  "date": "2023-07-03T12:29:23.529Z",
+  "error": null,
+  "response": {
+    "total": 619,
+    "inserted": 619,
+    "updated": 0,
+    "failed": 0,
+    "errors": [],
+    "took": 239
+  }
+}

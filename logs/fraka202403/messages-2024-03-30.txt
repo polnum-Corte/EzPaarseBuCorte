@@ -1,0 +1,7 @@
+2024-03-30 03:30:00 Security database purge
+2024-03-30 13:14:48 getaddrinfo error quest.britannica.fr -2
+2024-03-30 13:14:48 UUConnect host 'quest.britannica.fr' not found in DoTranslate
+2024-03-30 13:14:48 Host not found: quest.britannica.fr
+2024-03-30 13:14:49 getaddrinfo error quest.britannica.fr -2
+2024-03-30 13:14:49 UUConnect host 'quest.britannica.fr' not found in DoTranslate
+2024-03-30 13:14:49 Host not found: quest.britannica.fr

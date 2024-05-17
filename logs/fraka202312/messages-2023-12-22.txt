@@ -1,0 +1,29 @@
+2023-12-22 03:30:00 Security database purge
+2023-12-22 04:59:53 getaddrinfo error www.scd.univ-corse.fr -2
+2023-12-22 04:59:53 UUConnect host 'www.scd.univ-corse.fr' not found in DoTranslate
+2023-12-22 04:59:53 Host not found: www.scd.univ-corse.fr
+2023-12-22 04:59:53 getaddrinfo error www.scd.univ-corse.fr -2
+2023-12-22 04:59:53 UUConnect host 'www.scd.univ-corse.fr' not found in DoTranslate
+2023-12-22 04:59:53 Host not found: www.scd.univ-corse.fr
+2023-12-22 04:59:57 getaddrinfo error www.scd.univ-corse.fr -2
+2023-12-22 04:59:57 UUConnect host 'www.scd.univ-corse.fr' not found in DoTranslate
+2023-12-22 04:59:57 Host not found: www.scd.univ-corse.fr
+2023-12-22 08:03:17 EZproxy shutting down
+2023-12-22 08:03:48 EZproxy 7.2.12 GA [SOURCE:7.2.12] [Linux] [2022-10-18T23:31:53Z]
+2023-12-22 08:03:48 For further information or updates, visit http://www.oclc.org/ezproxy/ or contact support@oclc.org.
+Option DisableSSL40bit has been deprecated.  This is disabled by default.  Please see SSLCipherSuite directive.
+Option DisableSSLv2 has been deprecated.  SSLv2 is always disabled for security reasons.
+2023-12-22 08:03:48 EZproxy 7.2.12 GA [SOURCE:7.2.12] [Linux] [2022-10-18T23:31:53Z]
+2023-12-22 08:03:48 For further information or updates, visit http://www.oclc.org/ezproxy/ or contact support@oclc.org.
+2023-12-22 08:03:48 MaxVirtualHosts (MV) changed from 200 to 10000
+2023-12-22 08:03:48 MaxSessions set to default 500
+2023-12-22 08:03:48 Option DisableSSL40bit has been deprecated.  This is disabled by default.  Please see SSLCipherSuite directive.
+2023-12-22 08:03:48 Option DisableSSLv2 has been deprecated.  SSLv2 is always disabled for security reasons.
+2023-12-22 08:03:48 WARNING: EZproxy can only use ports below 1024 if it is run by root
+2023-12-22 08:03:48 Unrecognized config.txt(280): HOST: www.coolture.fr
+2023-12-22 08:03:48 Server name udcpp.idm.oclc.org
+2023-12-22 08:03:48 Server http URL http://udcpp.idm.oclc.org
+2023-12-22 08:03:48 Server https URL https://login.udcpp.idm.oclc.org
+2023-12-22 08:03:48 Proxy by hostname
+2023-12-22 08:03:48 Attempting to revalidate EZproxy license key with OCLC server.
+2023-12-22 08:03:48 EZproxy license key is valid.

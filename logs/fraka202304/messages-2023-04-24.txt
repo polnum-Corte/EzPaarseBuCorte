@@ -1,0 +1,61 @@
+2023-04-24 03:30:00 Security database purge
+2023-04-24 09:12:21 getaddrinfo error www.scd.univ-corse.fr -2
+2023-04-24 09:12:21 UUConnect host 'www.scd.univ-corse.fr' not found in DoTranslate
+2023-04-24 09:12:21 Host not found: www.scd.univ-corse.fr
+2023-04-24 09:12:21 getaddrinfo error www.scd.univ-corse.fr -2
+2023-04-24 09:12:21 UUConnect host 'www.scd.univ-corse.fr' not found in DoTranslate
+2023-04-24 09:12:21 Host not found: www.scd.univ-corse.fr
+2023-04-24 12:10:31 EZproxy shutting down
+Option DisableSSL40bit has been deprecated.  This is disabled by default.  Please see SSLCipherSuite directive.
+Option DisableSSLv2 has been deprecated.  SSLv2 is always disabled for security reasons.
+2023-04-24 12:10:32 EZproxy 7.2.12 GA [SOURCE:7.2.12] [Linux] [2022-10-18T23:31:53Z]
+2023-04-24 12:10:32 For further information or updates, visit http://www.oclc.org/ezproxy/ or contact support@oclc.org.
+2023-04-24 12:10:32 MaxVirtualHosts (MV) changed from 200 to 10000
+2023-04-24 12:10:32 MaxSessions set to default 500
+2023-04-24 12:10:32 Option DisableSSL40bit has been deprecated.  This is disabled by default.  Please see SSLCipherSuite directive.
+2023-04-24 12:10:32 Option DisableSSLv2 has been deprecated.  SSLv2 is always disabled for security reasons.
+2023-04-24 12:10:32 WARNING: EZproxy can only use ports below 1024 if it is run by root
+2023-04-24 12:10:32 Unrecognized config.txt(280): HOST: www.coolture.fr
+2023-04-24 12:10:32 Server name udcpp.idm.oclc.org
+2023-04-24 12:10:32 Server http URL http://udcpp.idm.oclc.org
+2023-04-24 12:10:32 Server https URL https://login.udcpp.idm.oclc.org
+2023-04-24 12:10:32 Proxy by hostname
+2023-04-24 12:10:32 EZproxy license key is valid.
+2023-04-24 15:34:27 EZproxy shutting down
+Option DisableSSL40bit has been deprecated.  This is disabled by default.  Please see SSLCipherSuite directive.
+Option DisableSSLv2 has been deprecated.  SSLv2 is always disabled for security reasons.
+2023-04-24 15:34:27 EZproxy 7.2.12 GA [SOURCE:7.2.12] [Linux] [2022-10-18T23:31:53Z]
+2023-04-24 15:34:27 For further information or updates, visit http://www.oclc.org/ezproxy/ or contact support@oclc.org.
+2023-04-24 15:34:27 MaxVirtualHosts (MV) changed from 200 to 10000
+2023-04-24 15:34:27 MaxSessions set to default 500
+2023-04-24 15:34:27 Option DisableSSL40bit has been deprecated.  This is disabled by default.  Please see SSLCipherSuite directive.
+2023-04-24 15:34:27 Option DisableSSLv2 has been deprecated.  SSLv2 is always disabled for security reasons.
+2023-04-24 15:34:27 WARNING: EZproxy can only use ports below 1024 if it is run by root
+2023-04-24 15:34:27 Unrecognized config.txt(280): HOST: www.coolture.fr
+2023-04-24 15:34:27 Server name udcpp.idm.oclc.org
+2023-04-24 15:34:27 Server http URL http://udcpp.idm.oclc.org
+2023-04-24 15:34:27 Server https URL https://login.udcpp.idm.oclc.org
+2023-04-24 15:34:27 Proxy by hostname
+2023-04-24 15:34:27 EZproxy license key is valid.
+2023-04-24 17:25:42 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 17:25:54 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 17:26:11 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 17:27:41 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 17:27:51 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 17:27:52 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 17:27:54 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 17:29:15 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 17:29:23 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 17:29:44 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 17:29:48 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 17:29:52 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 17:30:25 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 18:13:33 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 18:17:14 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 18:18:53 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 18:22:34 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 18:25:34 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 18:25:47 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 18:27:41 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 18:31:10 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS
+2023-04-24 18:32:12 UUconnect remote host auth.univ-corse.fr (193.48.28.18) considered down in CAS

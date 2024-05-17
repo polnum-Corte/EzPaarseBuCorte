@@ -1,0 +1,20 @@
+2024-02-26 03:30:00 Security database purge
+2024-02-26 11:43:26 EZproxy shutting down
+2024-02-26 11:43:55 EZproxy 7.2.12 GA [SOURCE:7.2.12] [Linux] [2022-10-18T23:31:53Z]
+2024-02-26 11:43:55 For further information or updates, visit http://www.oclc.org/ezproxy/ or contact support@oclc.org.
+Option DisableSSL40bit has been deprecated.  This is disabled by default.  Please see SSLCipherSuite directive.
+Option DisableSSLv2 has been deprecated.  SSLv2 is always disabled for security reasons.
+2024-02-26 11:43:55 EZproxy 7.2.12 GA [SOURCE:7.2.12] [Linux] [2022-10-18T23:31:53Z]
+2024-02-26 11:43:55 For further information or updates, visit http://www.oclc.org/ezproxy/ or contact support@oclc.org.
+2024-02-26 11:43:55 MaxVirtualHosts (MV) changed from 200 to 10000
+2024-02-26 11:43:55 MaxSessions set to default 500
+2024-02-26 11:43:55 Option DisableSSL40bit has been deprecated.  This is disabled by default.  Please see SSLCipherSuite directive.
+2024-02-26 11:43:55 Option DisableSSLv2 has been deprecated.  SSLv2 is always disabled for security reasons.
+2024-02-26 11:43:55 WARNING: EZproxy can only use ports below 1024 if it is run by root
+2024-02-26 11:43:55 Unrecognized config.txt(282): HOST: www.coolture.fr
+2024-02-26 11:43:55 Server name udcpp.idm.oclc.org
+2024-02-26 11:43:55 Server http URL http://udcpp.idm.oclc.org
+2024-02-26 11:43:55 Server https URL https://login.udcpp.idm.oclc.org
+2024-02-26 11:43:55 Proxy by hostname
+2024-02-26 11:43:55 Attempting to revalidate EZproxy license key with OCLC server.
+2024-02-26 11:43:56 EZproxy license key is valid.

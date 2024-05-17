@@ -1,0 +1,32 @@
+2023-01-31 03:18:35 getaddrinfo error www.pratiques.dalloz-avocats.fr -2
+2023-01-31 03:18:35 UUConnect host 'www.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-01-31 03:18:35 Host not found: www.pratiques.dalloz-avocats.fr
+2023-01-31 03:18:35 getaddrinfo error validation.pratiques.dalloz-avocats.fr -2
+2023-01-31 03:18:35 UUConnect host 'validation.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-01-31 03:18:35 Host not found: validation.pratiques.dalloz-avocats.fr
+2023-01-31 03:30:00 Security database purge
+2023-01-31 07:52:04 getaddrinfo error www.pratiques.dalloz-avocats.fr -2
+2023-01-31 07:52:04 UUConnect host 'www.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-01-31 07:52:04 Host not found: www.pratiques.dalloz-avocats.fr
+2023-01-31 07:52:04 getaddrinfo error validation.pratiques.dalloz-avocats.fr -2
+2023-01-31 07:52:04 UUConnect host 'validation.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-01-31 07:52:04 Host not found: validation.pratiques.dalloz-avocats.fr
+2023-01-31 07:52:05 getaddrinfo error www.pratiques.dalloz-avocats.fr -2
+2023-01-31 07:52:05 UUConnect host 'www.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-01-31 07:52:05 Host not found: www.pratiques.dalloz-avocats.fr
+2023-01-31 07:52:05 getaddrinfo error validation.pratiques.dalloz-avocats.fr -2
+2023-01-31 07:52:05 UUConnect host 'validation.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-01-31 07:52:05 Host not found: validation.pratiques.dalloz-avocats.fr
+2023-01-31 09:52:57 getaddrinfo error www.scd.univ-corse.fr -2
+2023-01-31 09:52:57 UUConnect host 'www.scd.univ-corse.fr' not found in DoTranslate
+2023-01-31 09:52:57 Host not found: www.scd.univ-corse.fr
+2023-01-31 09:52:58 getaddrinfo error www.scd.univ-corse.fr -2
+2023-01-31 09:52:58 UUConnect host 'www.scd.univ-corse.fr' not found in DoTranslate
+2023-01-31 09:52:58 Host not found: www.scd.univ-corse.fr
+2023-01-31 10:27:13     1    40+ CAS server did not respond
+2023-01-31 10:52:06 getaddrinfo error www.scd.univ-corse.fr -2
+2023-01-31 10:52:06 UUConnect host 'www.scd.univ-corse.fr' not found in DoTranslate
+2023-01-31 10:52:06 Host not found: www.scd.univ-corse.fr
+2023-01-31 10:52:06 getaddrinfo error www.scd.univ-corse.fr -2
+2023-01-31 10:52:06 UUConnect host 'www.scd.univ-corse.fr' not found in DoTranslate
+2023-01-31 10:52:06 Host not found: www.scd.univ-corse.fr

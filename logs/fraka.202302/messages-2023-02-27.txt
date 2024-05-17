@@ -1,0 +1,58 @@
+2023-02-27 03:30:00 Security database purge
+2023-02-27 05:43:01 getaddrinfo error www.pratiques.dalloz-avocats.fr -2
+2023-02-27 05:43:01 UUConnect host 'www.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-02-27 05:43:01 Host not found: www.pratiques.dalloz-avocats.fr
+2023-02-27 05:43:01 getaddrinfo error validation.pratiques.dalloz-avocats.fr -2
+2023-02-27 05:43:01 UUConnect host 'validation.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-02-27 05:43:01 Host not found: validation.pratiques.dalloz-avocats.fr
+2023-02-27 06:00:45 getaddrinfo error validation.pratiques.dalloz-avocats.fr -2
+2023-02-27 06:00:45 UUConnect host 'validation.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-02-27 06:00:45 Host not found: validation.pratiques.dalloz-avocats.fr
+2023-02-27 06:00:45 getaddrinfo error www.pratiques.dalloz-avocats.fr -2
+2023-02-27 06:00:45 UUConnect host 'www.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-02-27 06:00:45 Host not found: www.pratiques.dalloz-avocats.fr
+2023-02-27 11:06:28 getaddrinfo error www.scd.univ-corse.fr -2
+2023-02-27 11:06:28 UUConnect host 'www.scd.univ-corse.fr' not found in DoTranslate
+2023-02-27 11:06:28 Host not found: www.scd.univ-corse.fr
+2023-02-27 11:06:28 getaddrinfo error www.scd.univ-corse.fr -2
+2023-02-27 11:06:28 UUConnect host 'www.scd.univ-corse.fr' not found in DoTranslate
+2023-02-27 11:06:28 Host not found: www.scd.univ-corse.fr
+2023-02-27 11:06:33 getaddrinfo error www.scd.univ-corse.fr -2
+2023-02-27 11:06:33 UUConnect host 'www.scd.univ-corse.fr' not found in DoTranslate
+2023-02-27 11:06:33 Host not found: www.scd.univ-corse.fr
+2023-02-27 11:06:33 getaddrinfo error www.scd.univ-corse.fr -2
+2023-02-27 11:06:33 UUConnect host 'www.scd.univ-corse.fr' not found in DoTranslate
+2023-02-27 11:06:33 Host not found: www.scd.univ-corse.fr
+2023-02-27 11:06:35 getaddrinfo error www.scd.univ-corse.fr -2
+2023-02-27 11:06:35 UUConnect host 'www.scd.univ-corse.fr' not found in DoTranslate
+2023-02-27 11:06:35 Host not found: www.scd.univ-corse.fr
+2023-02-27 11:08:03 getaddrinfo error www.pratiques.dalloz-avocats.fr -2
+2023-02-27 11:08:03 UUConnect host 'www.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-02-27 11:08:03 Host not found: www.pratiques.dalloz-avocats.fr
+2023-02-27 11:08:03 getaddrinfo error validation.pratiques.dalloz-avocats.fr -2
+2023-02-27 11:08:03 UUConnect host 'validation.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-02-27 11:08:03 Host not found: validation.pratiques.dalloz-avocats.fr
+2023-02-27 11:10:08 getaddrinfo error www.pratiques.dalloz-avocats.fr -2
+2023-02-27 11:10:08 UUConnect host 'www.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-02-27 11:10:08 Host not found: www.pratiques.dalloz-avocats.fr
+2023-02-27 11:10:08 getaddrinfo error validation.pratiques.dalloz-avocats.fr -2
+2023-02-27 11:10:08 UUConnect host 'validation.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-02-27 11:10:08 Host not found: validation.pratiques.dalloz-avocats.fr
+2023-02-27 11:14:48 getaddrinfo error validation.pratiques.dalloz-avocats.fr -2
+2023-02-27 11:14:48 UUConnect host 'validation.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-02-27 11:14:48 Host not found: validation.pratiques.dalloz-avocats.fr
+2023-02-27 11:14:48 getaddrinfo error www.pratiques.dalloz-avocats.fr -2
+2023-02-27 11:14:48 UUConnect host 'www.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-02-27 11:14:48 Host not found: www.pratiques.dalloz-avocats.fr
+2023-02-27 12:07:47 getaddrinfo error validation.pratiques.dalloz-avocats.fr -2
+2023-02-27 12:07:47 UUConnect host 'validation.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-02-27 12:07:47 Host not found: validation.pratiques.dalloz-avocats.fr
+2023-02-27 12:07:47 getaddrinfo error www.pratiques.dalloz-avocats.fr -2
+2023-02-27 12:07:47 UUConnect host 'www.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-02-27 12:07:47 Host not found: www.pratiques.dalloz-avocats.fr
+2023-02-27 14:04:04 getaddrinfo error www.pratiques.dalloz-avocats.fr -2
+2023-02-27 14:04:04 UUConnect host 'www.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-02-27 14:04:04 Host not found: www.pratiques.dalloz-avocats.fr
+2023-02-27 14:04:04 getaddrinfo error validation.pratiques.dalloz-avocats.fr -2
+2023-02-27 14:04:04 UUConnect host 'validation.pratiques.dalloz-avocats.fr' not found in DoTranslate
+2023-02-27 14:04:04 Host not found: validation.pratiques.dalloz-avocats.fr

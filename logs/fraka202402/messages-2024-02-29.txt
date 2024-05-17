@@ -1,0 +1,11 @@
+2024-02-29 03:30:00 Security database purge
+2024-02-29 06:34:48 UUconnect remote host gss.ebscohost.com (52.5.252.240) considered down in DoTranslate
+2024-02-29 06:36:59 UUconnect connect refused by gss.ebscohost.com(52.5.252.240):443 ((110) Connection timed out) in DoTranslate
+2024-02-29 09:29:04 UUconnect remote host gss.ebscohost.com (52.5.252.240) considered down in DoTranslate
+2024-02-29 09:29:04 UUconnect remote host gss.ebscohost.com (52.5.252.240) considered down in DoTranslate
+2024-02-29 09:29:04 UUconnect remote host gss.ebscohost.com (52.5.252.240) considered down in DoTranslate
+2024-02-29 09:30:02 UUconnect remote host gss.ebscohost.com (52.5.252.240) considered down in DoTranslate
+2024-02-29 09:30:02 UUconnect remote host gss.ebscohost.com (52.5.252.240) considered down in DoTranslate
+2024-02-29 09:31:45 UUconnect remote host gss.ebscohost.com (52.5.252.240) considered down in DoTranslate
+2024-02-29 09:31:45 UUconnect remote host gss.ebscohost.com (52.5.252.240) considered down in DoTranslate
+2024-02-29 09:31:45 UUconnect remote host gss.ebscohost.com (52.5.252.240) considered down in DoTranslate
